@@ -1,2 +1,2 @@
 # MichelleTest
-GitHub First Attempt
+This is my first attempt using Github for IS445.
